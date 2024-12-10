@@ -11,6 +11,6 @@ Uygulama, modern bir arayüz ile **React**, **TypeScript**, **Tailwind CSS** kul
 
 # Hikayesi
 
-Geçen gün ailemi ziyarete gittiğimde muhasebeci kız kardeşimin uzunca excel tutar listelerinde, hangilerinin toplu elindeki sayıya eşit bunu bulmaya çalıştığını farkettim :)
+Geçen gün ailemi ziyarete gittiğimde muhasebeci kız kardeşimin uzunca excel tutar listelerinde, hangilerinin toplamının elindeki sayıya eşit bunu bulmaya çalıştığını farkettim :)
 Dedim ki bunu basit bir uygulama ile halledebilirsin diyerek bu uygulamayı geliştirdim.
 Daha doğrusu basit yönlendirmelerle ChatGPT'ye yazdırdım. Dileyenler kullanabilir.
